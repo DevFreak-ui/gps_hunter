@@ -6,7 +6,7 @@ MarkupSafe==2.1.5
 mkl==2021.4.0
 mpmath==1.3.0
 networkx==3.3
-numpy==2.0.0
+numpy==1.19.5
 pillow==10.3.0
 sympy==1.12.1
 tbb==2021.13.0
